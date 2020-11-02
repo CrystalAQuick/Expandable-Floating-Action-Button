@@ -74,6 +74,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    // Actually does the rotating for the FAB
     public static boolean rotateFab(final View v, boolean rotate) {
         v.animate().setDuration(200)
                 .setListener(new AnimatorListenerAdapter() {
@@ -105,5 +106,4 @@ public class MainActivity extends AppCompatActivity {
             fabAnimateButtonTop.setVisibility(View.INVISIBLE);
         }
     }
-
 }
