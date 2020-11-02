@@ -21,7 +21,17 @@
         
 ## Research / Useful Learning Resources
 
+https://developer.android.com/guide/topics/ui/floating-action-button
 https://medium.com/better-programming/animated-fab-button-with-more-options-2dcf7118fff6
 https://stackoverflow.com/questions/18221581/how-to-animate-button-in-android
+https://www.techotopia.com/index.php/Working_with_the_Floating_Action_Button_and_Snackbar
+
+Icons:
+
+https://www.flaticon.com/authors/kiranshastry
+https://www.flaticon.com/authors/freepik
+https://www.flaticon.com/authors/iconixar
+
+
 
 
